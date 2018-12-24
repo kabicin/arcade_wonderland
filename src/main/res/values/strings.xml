@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">rhythmkk</string>
+
+
+
+    <string name="default_username">kabicin</string>
+    <string name="default_lishi_score">0</string>
+    <string name="default_lishi_score_description">The Lishi Score Display</string>
+
+    <string name="default_song_header">Track</string>
+    <string name="default_song_name">SongSong</string>
+    <string name="default_song_desc">Wake up!</string>
+
+
+    <string name="currently_playing_header">Currently Playing:</string>
+
+    <string name="scoreboard_header">Scores</string>
+
+</resources>
