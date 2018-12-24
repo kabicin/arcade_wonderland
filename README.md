@@ -16,7 +16,6 @@
 ## Further Implementations
 - [ ] Firebase login.
 - [ ] New background art.
-- [ ] Gameplay background.
 
-## Download?
+## Download
 - Fork the repository and run from the "rhythmkk" folder.
