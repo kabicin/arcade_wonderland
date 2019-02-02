@@ -1,4 +1,4 @@
-# arcade_wonderland
+# Arcade Wonderland
 
 | Start Screen | Gameplay |
 ---------------- | ----------------
